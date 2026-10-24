@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "xiexiubifa-writing": {
+      "type": "streamableHttp",
+      "url": "https://mcp.xiexiubifa.cn/mcp",
+      "timeout": 30000
+    }
+  }
+}

@@ -1,0 +1,28 @@
+/* 连接 AI 助手 — consent page and connection list (consent-ui.js). Plain styles; the site may restyle them. */
+.xc-page { max-width: 36rem; margin: 0 auto; padding: 1.25rem; font: 15px/1.7 system-ui, -apple-system, "PingFang SC", "Microsoft YaHei", sans-serif; color: #222; }
+.xc-title { font-size: 1.3rem; margin: 0 0 .75rem; }
+.xc-lead { margin: .25rem 0; }
+.xc-lead small, .xc-code small { color: #666; }
+.xc-account-note { margin: .1rem 0 .5rem; color: #555; font-size: .9rem; }
+.xc-return { margin: .25rem 0 .75rem; color: #333; }
+.xc-code { padding: .6rem .8rem; border: 1px solid #b43d28; border-radius: .5rem; background: #fff7f5; }
+.xc-code b { font-size: 1.25rem; letter-spacing: .12em; }
+.xc-section { border-top: 1px solid #eee; padding: .4rem 0; }
+.xc-section h3 { font-size: 1rem; margin: .3rem 0; }
+.xc-section ul { margin: .2rem 0; padding-left: 1.2rem; }
+.xc-plans { list-style: none; padding: 0; margin: .3rem 0; }
+.xc-plans li { display: flex; flex-wrap: wrap; gap: .5rem; padding: .2rem 0; }
+.xc-plans span { color: #555; }
+.xc-member { margin: .3rem 0; padding: .35rem .6rem; background: #f6f6f6; border-radius: .4rem; }
+.xc-actions { display: flex; gap: .75rem; margin: 1rem 0 .5rem; flex-wrap: wrap; }
+.xc-actions button, .xc-code-form button { font: inherit; padding: .55rem 1.2rem; border-radius: .5rem; border: 1px solid #999; background: #fff; cursor: pointer; }
+.xc-actions .xc-primary, .xc-code-form .xc-primary, .xc-primary-link { background: #b43d28; border-color: #b43d28; color: #fff; }
+.xc-primary-link { display: inline-block; padding: .55rem 1.2rem; border-radius: .5rem; text-decoration: none; }
+.xc-code-form { display: flex; gap: .5rem; margin: .75rem 0; }
+.xc-code-form input { font: inherit; font-size: 1.15rem; letter-spacing: .1em; padding: .45rem .6rem; width: 10rem; text-transform: uppercase; }
+.xc-note { color: #666; font-size: .9rem; }
+.xc-message.is-error { color: #b42318; }
+.xc-connections { list-style: none; padding: 0; }
+.xc-connections li { display: flex; justify-content: space-between; align-items: center; gap: .75rem; padding: .5rem 0; border-bottom: 1px solid #eee; }
+.xc-connections small { display: block; color: #666; }
+.xc-connections button { white-space: nowrap; flex-shrink: 0; font: inherit; padding: .3rem .8rem; }

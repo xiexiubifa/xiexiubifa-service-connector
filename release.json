@@ -1,0 +1,7 @@
+{
+  "version": "3.0.1",
+  "mcp_url": "https://mcp.xiexiubifa.cn/mcp",
+  "site_url": "https://xiexiubifa.cn/",
+  "service_status": "not_deployed",
+  "note": "One place for the version, the service address and whether the service is deployed. tools/check_release.py checks that every file agrees; --set-url changes the address everywhere, --set-status deployed|not_deployed the status."
+}

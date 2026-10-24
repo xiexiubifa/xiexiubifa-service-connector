@@ -1,0 +1,5 @@
+{
+  "mcp_url": "https://mcp.xiexiubifa.cn/mcp",
+  "status": "not_deployed",
+  "note": "邪修笔法写作服务的 MCP 地址和上线状态。not_deployed：服务还没有上线，这个地址现在连不上。也可以用环境变量 XIEXIUBIFA_SERVICE 或 --service 指定别的地址（例如本地演示服务）。"
+}

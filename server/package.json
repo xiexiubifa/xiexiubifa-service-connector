@@ -1,0 +1,17 @@
+{
+  "name": "xiexiubifa-writing-service",
+  "version": "3.0.1",
+  "private": true,
+  "description": "Writing-service backend for 邪修笔法 (xiexiubifa.cn): MCP server (streamable HTTP) with OAuth 2.1 account connection, for the WorkBuddy connector and other AI agents. No runtime dependencies.",
+  "main": "src/service.cjs",
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "dev": "node bin/dev-server.cjs",
+    "test": "node --test"
+  },
+  "devDependencies": {
+    "@modelcontextprotocol/sdk": "1.32.2"
+  }
+}

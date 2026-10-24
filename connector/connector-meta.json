@@ -1,0 +1,24 @@
+{
+  "name": "邪修笔法写材料",
+  "name_zh": "邪修笔法写材料",
+  "name_en": "Xiexiubifa Writing",
+  "description": "用你自己的邪修笔法（xiexiubifa.cn）账号写公文、讲话稿、总结、方案等中文材料，也能改稿和润色；按网站会员规则使用额度，成稿存入网站成稿记录。",
+  "description_zh": "用你自己的邪修笔法（xiexiubifa.cn）账号写公文、讲话稿、总结、方案等中文材料，也能改稿和润色；按网站会员规则使用额度，成稿存入网站成稿记录。",
+  "description_en": "Write and polish Chinese documents with your own xiexiubifa.cn account (uses your site quota).",
+  "source": "xiexiubifa-writing",
+  "type": "mcp",
+  "version": "3.0.1",
+  "minWorkbuddyVersion": "4.24.0",
+  "examples_zh": [
+    "用邪修笔法帮我写一份街道冬季安全生产工作方案，1500字左右",
+    "把这份年终工作总结交给邪修笔法润色一下",
+    "上一稿第二部分写得更具体些",
+    "我的邪修笔法会员还剩多少额度？"
+  ],
+  "examples_en": [
+    "Use Xiexiubifa to draft a 1,500-character winter work-safety plan for our subdistrict",
+    "Polish this year-end work summary with Xiexiubifa",
+    "Make section two of the last draft more specific",
+    "How much of my Xiexiubifa quota is left?"
+  ]
+}
